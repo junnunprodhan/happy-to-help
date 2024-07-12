@@ -1,0 +1,207 @@
+[
+    {
+      "name": "Lionel Messi",
+      "image": "https://example.com/messi.jpg",
+      "position": "Forward",
+      "stats": {
+        "goalsPerGame": 0.9,
+        "assistsPerGame": 0.5,
+        "tacklesPerGame": 0.2
+      }
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "image": "https://example.com/ronaldo.jpg",
+      "position": "Forward",
+      "stats": {
+        "goalsPerGame": 0.8,
+        "assistsPerGame": 0.4,
+        "tacklesPerGame": 0.3
+      }
+    },
+    {
+      "name": "Neymar Jr.",
+      "image": "https://example.com/neymar.jpg",
+      "position": "Forward",
+      "stats": {
+        "goalsPerGame": 0.7,
+        "assistsPerGame": 0.6,
+        "tacklesPerGame": 0.4
+      }
+    },
+    {
+      "name": "Kylian Mbappe",
+      "image": "https://example.com/mbappe.jpg",
+      "position": "Forward",
+      "stats": {
+        "goalsPerGame": 0.8,
+        "assistsPerGame": 0.5,
+        "tacklesPerGame": 0.3
+      }
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "image": "https://example.com/debruyne.jpg",
+      "position": "Midfielder",
+      "stats": {
+        "goalsPerGame": 0.3,
+        "assistsPerGame": 0.8,
+        "tacklesPerGame": 0.5
+      }
+    },
+    {
+      "name": "Luka Modric",
+      "image": "https://example.com/modric.jpg",
+      "position": "Midfielder",
+      "stats": {
+        "goalsPerGame": 0.2,
+        "assistsPerGame": 0.7,
+        "tacklesPerGame": 0.6
+      }
+    },
+    {
+      "name": "Sergio Ramos",
+      "image": "https://example.com/ramos.jpg",
+      "position": "Defender",
+      "stats": {
+        "goalsPerGame": 0.1,
+        "assistsPerGame": 0.2,
+        "tacklesPerGame": 1.0
+      }
+    },
+    {
+      "name": "Virgil van Dijk",
+      "image": "https://example.com/vandijk.jpg",
+      "position": "Defender",
+      "stats": {
+        "goalsPerGame": 0.2,
+        "assistsPerGame": 0.1,
+        "tacklesPerGame": 0.9
+      }
+    },
+    {
+      "name": "Alisson Becker",
+      "image": "https://example.com/alisson.jpg",
+      "position": "Goalkeeper",
+      "stats": {
+        "goalsPerGame": 0.0,
+        "assistsPerGame": 0.1,
+        "tacklesPerGame": 0.2,
+        "savesPerGame": 3.5
+      }
+    },
+    {
+      "name": "Jan Oblak",
+      "image": "https://example.com/oblak.jpg",
+      "position": "Goalkeeper",
+      "stats": {
+        "goalsPerGame": 0.0,
+        "assistsPerGame": 0.1,
+        "tacklesPerGame": 0.1,
+        "savesPerGame": 3.8
+      }
+    },
+    {
+      "name": "Mohamed Salah",
+      "image": "https://example.com/salah.jpg",
+      "position": "Forward",
+      "stats": {
+        "goalsPerGame": 0.6,
+        "assistsPerGame": 0.4,
+        "tacklesPerGame": 0.2
+      }
+    },
+    {
+      "name": "Robert Lewandowski",
+      "image": "https://example.com/lewandowski.jpg",
+      "position": "Forward",
+      "stats": {
+        "goalsPerGame": 0.9,
+        "assistsPerGame": 0.3,
+        "tacklesPerGame": 0.2
+      }
+    },
+    {
+      "name": "Eden Hazard",
+      "image": "https://example.com/hazard.jpg",
+      "position": "Forward",
+      "stats": {
+        "goalsPerGame": 0.4,
+        "assistsPerGame": 0.5,
+        "tacklesPerGame": 0.3
+      }
+    },
+    {
+      "name": "Paul Pogba",
+      "image": "https://example.com/pogba.jpg",
+      "position": "Midfielder",
+      "stats": {
+        "goalsPerGame": 0.3,
+        "assistsPerGame": 0.6,
+        "tacklesPerGame": 0.5
+      }
+    },
+    {
+      "name": "Toni Kroos",
+      "image": "https://example.com/kroos.jpg",
+      "position": "Midfielder",
+      "stats": {
+        "goalsPerGame": 0.2,
+        "assistsPerGame": 0.7,
+        "tacklesPerGame": 0.4
+      }
+    },
+    {
+      "name": "Gerard Pique",
+      "image": "https://example.com/pique.jpg",
+      "position": "Defender",
+      "stats": {
+        "goalsPerGame": 0.1,
+        "assistsPerGame": 0.2,
+        "tacklesPerGame": 0.9
+      }
+    },
+    {
+      "name": "Jordi Alba",
+      "image": "https://example.com/alba.jpg",
+      "position": "Defender",
+      "stats": {
+        "goalsPerGame": 0.1,
+        "assistsPerGame": 0.4,
+        "tacklesPerGame": 0.8
+      }
+    },
+    {
+      "name": "Manuel Neuer",
+      "image": "https://example.com/neuer.jpg",
+      "position": "Goalkeeper",
+      "stats": {
+        "goalsPerGame": 0.0,
+        "assistsPerGame": 0.1,
+        "tacklesPerGame": 0.1,
+        "savesPerGame": 3.6
+      }
+    },
+    {
+      "name": "Hugo Lloris",
+      "image": "https://example.com/lloris.jpg",
+      "position": "Goalkeeper",
+      "stats": {
+        "goalsPerGame": 0.0,
+        "assistsPerGame": 0.1,
+        "tacklesPerGame": 0.2,
+        "savesPerGame": 3.7
+      }
+    },
+    {
+      "name": "Sadio Mane",
+      "image": "https://example.com/mane.jpg",
+      "position": "Forward",
+      "stats": {
+        "goalsPerGame": 0.5,
+        "assistsPerGame": 0.4,
+        "tacklesPerGame": 0.3
+      }
+    }
+  ]
+  

@@ -1,0 +1,26 @@
+.main-Container {
+    max-width: 1240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+  }
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  
+  @media (min-width: 600px) {
+    .container {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (min-width: 900px) {
+    .container {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  
