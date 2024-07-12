@@ -1,206 +1,122 @@
 [
     {
       "name": "Lionel Messi",
-      "image": "https://example.com/messi.jpg",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/lionel-messi-celebrates-after-their-sides-third-goal-by-news-photo-1686170172.jpg?crop=0.66653xw:1xh;center,top&resize=1200:*",
       "position": "Forward",
       "stats": {
-        "goalsPerGame": 0.9,
-        "assistsPerGame": 0.5,
-        "tacklesPerGame": 0.2
+        "pointsPerGame": 25.4,
+        "assistsPerGame": 7.1,
+        "reboundsPerGame": 10.5
       }
     },
     {
       "name": "Cristiano Ronaldo",
-      "image": "https://example.com/ronaldo.jpg",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cristiano-ronaldo-of-al-nassr-looks-on-as-he-lines-up-prior-news-photo-1707422901.jpg?crop=0.910xw:0.909xh;0.0363xw,0.0907xh&resize=1200:*",
+      "position": "Guard",
+      "stats": {
+        "pointsPerGame": 28.6,
+        "assistsPerGame": 5.2,
+        "reboundsPerGame": 8.3
+      }
+    },
+    {
+      "name": "Kevin Durant",
+      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2023/03/AS_KEVIN-DURANT_COMP.jpg?w=620",
       "position": "Forward",
       "stats": {
-        "goalsPerGame": 0.8,
-        "assistsPerGame": 0.4,
-        "tacklesPerGame": 0.3
+        "pointsPerGame": 31.2,
+        "assistsPerGame": 6.8,
+        "reboundsPerGame": 9.7
       }
     },
     {
-      "name": "Neymar Jr.",
-      "image": "https://example.com/neymar.jpg",
+      "name": "LeBron James",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/lebron-james-photo-by-streeter-lecka_getty-images.jpg?resize=1200:*",
       "position": "Forward",
       "stats": {
-        "goalsPerGame": 0.7,
-        "assistsPerGame": 0.6,
-        "tacklesPerGame": 0.4
+        "pointsPerGame": 29.9,
+        "assistsPerGame": 8.6,
+        "reboundsPerGame": 11.2
       }
     },
     {
-      "name": "Kylian Mbappe",
-      "image": "https://example.com/mbappe.jpg",
+      "name": "Stephen Curry",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/stephen-curry-gettyimages-1398745379.jpg?crop=0.939xw:0.939xh;0.0340xw,0.0306xh&resize=1200:*",
+      "position": "Guard",
+      "stats": {
+        "pointsPerGame": 33.5,
+        "assistsPerGame": 9.1,
+        "reboundsPerGame": 6.4
+      }
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "image": "https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1710966511/dksytvr9dgo6qxefnflq.jpg",
       "position": "Forward",
       "stats": {
-        "goalsPerGame": 0.8,
-        "assistsPerGame": 0.5,
-        "tacklesPerGame": 0.3
+        "pointsPerGame": 27.8,
+        "assistsPerGame": 5.5,
+        "reboundsPerGame": 13.1
       }
     },
     {
-      "name": "Kevin De Bruyne",
-      "image": "https://example.com/debruyne.jpg",
-      "position": "Midfielder",
+      "name": "James Harden",
+      "image": "https://phantom-marca.unidadeditorial.es/7502d449779fbffa03fe633473844c32/resize/828/f/webp/assets/multimedia/imagenes/2023/08/18/16923687359120.jpg",
+      "position": "Guard",
       "stats": {
-        "goalsPerGame": 0.3,
-        "assistsPerGame": 0.8,
-        "tacklesPerGame": 0.5
+        "pointsPerGame": 30.4,
+        "assistsPerGame": 11.2,
+        "reboundsPerGame": 7.8
       }
     },
     {
-      "name": "Luka Modric",
-      "image": "https://example.com/modric.jpg",
-      "position": "Midfielder",
-      "stats": {
-        "goalsPerGame": 0.2,
-        "assistsPerGame": 0.7,
-        "tacklesPerGame": 0.6
-      }
-    },
-    {
-      "name": "Sergio Ramos",
-      "image": "https://example.com/ramos.jpg",
-      "position": "Defender",
-      "stats": {
-        "goalsPerGame": 0.1,
-        "assistsPerGame": 0.2,
-        "tacklesPerGame": 1.0
-      }
-    },
-    {
-      "name": "Virgil van Dijk",
-      "image": "https://example.com/vandijk.jpg",
-      "position": "Defender",
-      "stats": {
-        "goalsPerGame": 0.2,
-        "assistsPerGame": 0.1,
-        "tacklesPerGame": 0.9
-      }
-    },
-    {
-      "name": "Alisson Becker",
-      "image": "https://example.com/alisson.jpg",
-      "position": "Goalkeeper",
-      "stats": {
-        "goalsPerGame": 0.0,
-        "assistsPerGame": 0.1,
-        "tacklesPerGame": 0.2,
-        "savesPerGame": 3.5
-      }
-    },
-    {
-      "name": "Jan Oblak",
-      "image": "https://example.com/oblak.jpg",
-      "position": "Goalkeeper",
-      "stats": {
-        "goalsPerGame": 0.0,
-        "assistsPerGame": 0.1,
-        "tacklesPerGame": 0.1,
-        "savesPerGame": 3.8
-      }
-    },
-    {
-      "name": "Mohamed Salah",
-      "image": "https://example.com/salah.jpg",
+      "name": "Kawhi Leonard",
+      "image": "https://phantom-marca.unidadeditorial.es/282879c298495eae4e87b37a3aa7d9b7/crop/12x7/2046x1363/resize/828/f/webp/assets/multimedia/imagenes/2024/06/17/17186420653969.jpg",
       "position": "Forward",
       "stats": {
-        "goalsPerGame": 0.6,
-        "assistsPerGame": 0.4,
-        "tacklesPerGame": 0.2
+        "pointsPerGame": 27.1,
+        "assistsPerGame": 4.9,
+        "reboundsPerGame": 8.9
       }
     },
     {
-      "name": "Robert Lewandowski",
-      "image": "https://example.com/lewandowski.jpg",
+      "name": "Anthony Davis",
+      "image": "https://media.bleacherreport.com/image/upload/w_800,h_533,c_fill/v1696338683/jrpqdp3rekzrkghrdgn8.jpg",
       "position": "Forward",
       "stats": {
-        "goalsPerGame": 0.9,
-        "assistsPerGame": 0.3,
-        "tacklesPerGame": 0.2
+        "pointsPerGame": 26.7,
+        "assistsPerGame": 3.5,
+        "reboundsPerGame": 10.8
       }
     },
     {
-      "name": "Eden Hazard",
-      "image": "https://example.com/hazard.jpg",
-      "position": "Forward",
+      "name": "Kyrie Irving",
+      "image": "https://media.npr.org/assets/img/2022/11/20/ap22306211207146-ce7a4d6244fb8e86ec050dbd7a85a6ded79f65ee.jpg?s=900&c=85&f=webp",
+      "position": "Guard",
       "stats": {
-        "goalsPerGame": 0.4,
-        "assistsPerGame": 0.5,
-        "tacklesPerGame": 0.3
+        "pointsPerGame": 27.3,
+        "assistsPerGame": 6.4,
+        "reboundsPerGame": 5.9
       }
     },
     {
-      "name": "Paul Pogba",
-      "image": "https://example.com/pogba.jpg",
-      "position": "Midfielder",
+      "name": "Damian Lillard",
+      "image": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/DUUYTICCPVCILN4RNXIBACUNWE.jpg?auth=cebb9e461e71fdfcfcaf562e3bb6c3b5dbdfb1c99ca9630e665526c63072d8c6&width=767",
+      "position": "Guard",
       "stats": {
-        "goalsPerGame": 0.3,
-        "assistsPerGame": 0.6,
-        "tacklesPerGame": 0.5
+        "pointsPerGame": 29.6,
+        "assistsPerGame": 8.0,
+        "reboundsPerGame": 4.3
       }
     },
     {
-      "name": "Toni Kroos",
-      "image": "https://example.com/kroos.jpg",
-      "position": "Midfielder",
+      "name": "Russell Westbrook",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1233178477.jpg?resize=1200:*",
+      "position": "Guard",
       "stats": {
-        "goalsPerGame": 0.2,
-        "assistsPerGame": 0.7,
-        "tacklesPerGame": 0.4
-      }
-    },
-    {
-      "name": "Gerard Pique",
-      "image": "https://example.com/pique.jpg",
-      "position": "Defender",
-      "stats": {
-        "goalsPerGame": 0.1,
-        "assistsPerGame": 0.2,
-        "tacklesPerGame": 0.9
-      }
-    },
-    {
-      "name": "Jordi Alba",
-      "image": "https://example.com/alba.jpg",
-      "position": "Defender",
-      "stats": {
-        "goalsPerGame": 0.1,
-        "assistsPerGame": 0.4,
-        "tacklesPerGame": 0.8
-      }
-    },
-    {
-      "name": "Manuel Neuer",
-      "image": "https://example.com/neuer.jpg",
-      "position": "Goalkeeper",
-      "stats": {
-        "goalsPerGame": 0.0,
-        "assistsPerGame": 0.1,
-        "tacklesPerGame": 0.1,
-        "savesPerGame": 3.6
-      }
-    },
-    {
-      "name": "Hugo Lloris",
-      "image": "https://example.com/lloris.jpg",
-      "position": "Goalkeeper",
-      "stats": {
-        "goalsPerGame": 0.0,
-        "assistsPerGame": 0.1,
-        "tacklesPerGame": 0.2,
-        "savesPerGame": 3.7
-      }
-    },
-    {
-      "name": "Sadio Mane",
-      "image": "https://example.com/mane.jpg",
-      "position": "Forward",
-      "stats": {
-        "goalsPerGame": 0.5,
-        "assistsPerGame": 0.4,
-        "tacklesPerGame": 0.3
+        "pointsPerGame": 31.8,
+        "assistsPerGame": 10.6,
+        "reboundsPerGame": 8.2
       }
     }
   ]
