@@ -1,9 +1,20 @@
-# React + Vite
+<p align="center">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">React assignment</h1>
 
-Currently, two official plugins are available:
+<p align=center>
+  <a href="https://fabulous-kangaroo-955bb2.netlify.app/">Website Link</a> ·
+  <a href="https://github.com/junnunprodhan/happy-to-help">github repository link</a> 
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# happy-to-help
+---
+
+
+### how to run 
+
+- clone this repository and npm install
+- npm run dev
+
+
+
