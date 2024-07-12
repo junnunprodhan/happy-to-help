@@ -1,11 +1,4 @@
-.search-container {
-    display: flex;
-    align-items: center;
-    justify-self: center;
-    max-width: 400px; /* Example max width */
-    margin-bottom: 20px; /* Example margin */
-  }
-  
+
   .search-input {
     flex: 1;
     padding: 10px;
